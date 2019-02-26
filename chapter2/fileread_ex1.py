@@ -25,7 +25,6 @@ def count_words(file_handle):
     for line in file_handle:
         word_list = []
         line_words = line.split()
-        print(line_words)
         for word in line_words:
             if word.isalpha():
                 word_list.append(word)
