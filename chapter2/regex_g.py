@@ -1,4 +1,8 @@
 #!/usr/bin/env python3
+#
+# Check if a given string is a g followed by zero or more rs.
+#
+# Example: ./regex_alpha.py yourstringhere
 
 import re
 import sys
