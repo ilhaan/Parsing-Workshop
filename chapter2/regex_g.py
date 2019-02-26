@@ -2,7 +2,7 @@
 #
 # Check if a given string is a g followed by zero or more rs.
 #
-# Example: ./regex_alpha.py yourstringhere
+# Example: ./regex_g.py yourstringhere
 
 import re
 import sys
