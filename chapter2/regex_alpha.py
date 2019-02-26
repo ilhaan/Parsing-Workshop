@@ -1,4 +1,8 @@
 #!/usr/bin/env python3
+#
+# Script to check if a given string contains only alphabets
+#
+# Example: ./regex_alpha.py yourstringhere
 
 import re
 import sys
